@@ -15,12 +15,11 @@ A simple project that:
 Asks the user to enter their date of birth
 
 Calculates their age instantly
-
-Great starting point to learn user input & output in Streamlit
+✅ Great starting point to learn user input & output in Streamlit
 
 2. chai_sales.csv 🍵
 
-A sample dataset containing sales data for tea
+A sample dataset containing sales data for tea.
 
 Used in the Chai Sales Dashboard (main_4.py)
 
@@ -44,7 +43,7 @@ Practice multiple-choice inputs
 
 4. main_2.py 🍽️
 
-A Food Ordering App where users can order Pizza, Cold Drinks, or Tea.
+Food Ordering App where users can order Pizza, Cold Drinks, or Tea.
 
 Features:
 
@@ -56,11 +55,11 @@ Quantity for drinks
 
 Extra inputs like phone number & date of birth
 
-Covers radio buttons, select boxes, number inputs, sliders, and text inputs in one app.
+👉 Covers radio buttons, select boxes, number inputs, sliders, and text inputs in one app.
 
 5. main_3.py 🗳️
 
-A Voting Poll App to vote between LinkedIn and Upwork.
+Voting Poll App to vote between LinkedIn and Upwork.
 
 Includes:
 
@@ -76,7 +75,7 @@ Markdown descriptions
 
 Expanders for extra instructions
 
-Helps you practice layouts, sidebars, and buttons.
+✅ Helps you practice layouts, sidebars, and buttons.
 
 6. main_4.py 📊
 
@@ -92,29 +91,38 @@ Show statistics (averages, totals)
 
 Filter data by city
 
-Teaches file upload, data filtering, and displaying tables.
+👉 Teaches file upload, data filtering, and displaying tables.
 
 7. main_5.py 💱
 
-A Live Currency Converter App.
+Live Currency Converter App.
 
 Converts PKR into:
+💵 USD | 🇦🇪 AED | 🇮🇳 INR | 🇹🇷 TRY
 
-💵 USD
-
-🇦🇪 AED
-
-🇮🇳 INR
-
-🇹🇷 TRY
-
-Uses a free exchange rate API — great for learning API integration.
+🔗 Uses a free exchange rate API — great for learning API integration.
 
 8. README.docx 📄
 
-Beginner-friendly notes in Word format
+Beginner-friendly notes in Word format.
 
 Explains each file clearly before running the apps
+
+🎯 What You’ll Learn
+
+By following this repository, you’ll master:
+
+✅ Setting up and running Streamlit apps
+
+✅ Using widgets like dropdowns, sliders, text inputs, and buttons
+
+✅ Creating fun apps (surveys, polls, calculators)
+
+✅ Building dashboards with uploaded data
+
+✅ Fetching & displaying live API data
+
+✅ Organizing apps with columns, sidebars, and expanders
 
 🎯 What You’ll Learn
 
